@@ -11,7 +11,7 @@ setuptools.setup(
     description="Easily control Sicamore Semi animated lightbars",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com",
+    url="https://github.com/SiCamore-Semi/lightbarlib",
     packages=setuptools.find_packages(),
     python_requires='>=3.6'
 )
